@@ -36,7 +36,7 @@ class _CombustivelAppState extends State<CombustivelApp> {
   String veiculo = 'Carro';
   String nomePosto = '';
   String resultado = '';
-  bool enviarWhatsApp = false;
+  bool enviarDados = false;
 
   // Fatores de correção simplificados (ajuste conforme necessário)
   Map<String, double> fatoresCorrecao = {
@@ -71,7 +71,7 @@ class _CombustivelAppState extends State<CombustivelApp> {
           'Veículo: $veiculo\n'
           'Conclusão: $resultado';
 
-      if (enviarWhatsApp) {
+      if (enviarDados) {
         Share.share(
           mensagemCompartilhar,
           subject: 'Resultado do Comparativo de Combustíveis',
@@ -153,11 +153,11 @@ class _CombustivelAppState extends State<CombustivelApp> {
                 decoration: InputDecoration(labelText: 'Tipo de Veículo'),
               ),
               CheckboxListTile(
-                title: Text('Enviar dados via WhatsApp'),
-                value: enviarWhatsApp,
+                title: Text('Compartilhar dados'),
+                value: enviarDados,
                 onChanged: (bool? value) {
                   setState(() {
-                    enviarWhatsApp = value ?? false;
+                    enviarDados = value ?? false;
                   });
                 },
               ),
