@@ -4,15 +4,15 @@ Imagine ter um aplicativo no celular capaz de verificar se é mais vantajoso ($)
 Pois é uma implementação possível e útil, então qual é a proposta?
 
 Proposta
-Implementar um aplicativo em Flutter capaz de verificar:
-Se é mais vantajoso ($) abastecer com etanol ou gasolina, a partir do veículo selecionado
-Apresentar o cálculo em tela e permitir o compartilhamento desses dados 
+- Implementar um aplicativo em Flutter capaz de verificar:
+- Se é mais vantajoso ($) abastecer com etanol ou gasolina, a partir do veículo selecionado
+- Apresentar o cálculo em tela e permitir o compartilhamento desses dados 
 
 O que esperar da aplicação?
  
-A verificação de qual combustível é mais vantajoso ($)
-Explicação do cálculo e impressão em tela
-Compartilhamento dos dados via whatsapp, por exemplo, incluindo o nome do posto
+- A verificação de qual combustível é mais vantajoso ($)
+- Explicação do cálculo e impressão em tela
+- Compartilhamento dos dados via whatsapp, por exemplo, incluindo o nome do posto
 
 Estruturas empregadas?
  
