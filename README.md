@@ -1,16 +1,25 @@
-# Atividade Final Flutter
+# Atividade Final Flutter: Verificador de combustíveis
 
-A new Flutter project.
+Imagine ter um aplicativo no celular capaz de verificar se é mais vantajoso ($) abastecer com etanol ou gasolina, mostrar o cálculo em tela, e ainda permitir compartilhar esses dados?
+Pois é uma implementação possível e útil, então qual é a proposta?
 
-## Getting Started
+Proposta
+Implementar um aplicativo em Flutter capaz de verificar:
+Se é mais vantajoso ($) abastecer com etanol ou gasolina, a partir do veículo selecionado
+Apresentar o cálculo em tela e permitir o compartilhamento desses dados 
 
-This project is a starting point for a Flutter application.
+O que esperar da aplicação?
+ 
+A verificação de qual combustível é mais vantajoso ($)
+Explicação do cálculo e impressão em tela
+Compartilhamento dos dados via whatsapp, email, incluindo o nome do posto, por exemplo
 
-A few resources to get you started if this is your first Flutter project:
+Estruturas empregadas?
+ 
+TextFormField
+DropdownButtonFormField
+Checkbox
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Conclusão
+A aplicação é uma proposta muito útil para o dia dia e de fácil manipulação, permitindo verificar e compreender em termos de custo, qual combustível é melhor escolher, dependendo do veículo selecionado, e ainda permite compartilhar esses dados
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
