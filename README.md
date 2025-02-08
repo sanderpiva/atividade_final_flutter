@@ -24,6 +24,10 @@ Conclusão:
 
 - A aplicação é uma proposta muito útil para o dia dia e de fácil manipulação, permitindo verificar e compreender em termos de custo, qual combustível é melhor escolher, dependendo do veículo selecionado, e ainda permite compartilhar esses dados
 
+Equipe:
+
+Darlene de Souza; Marcelo Ferreira; Renan Feliciano Rocha; Sander Gustavo Piva
+
 Print da aplicação:
 
 ![12](https://github.com/user-attachments/assets/e7d01634-c956-4584-9ef4-32caedabacc1)
