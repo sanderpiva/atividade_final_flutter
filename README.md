@@ -16,9 +16,9 @@ O que esperar da aplicação?
 
 Estruturas empregadas?
  
-TextFormField
-DropdownButtonFormField
-Checkbox
+- TextFormField
+- DropdownButtonFormField
+- Checkbox
 
 Conclusão:
 
