@@ -20,7 +20,7 @@ Estruturas empregadas?
 - DropdownButtonFormField
 - Checkbox
 
-Conclusão:
+Conclusão
 
 - A aplicação é uma proposta muito útil para o dia dia e de fácil manipulação, permitindo verificar e compreender em termos de custo, qual combustível é melhor escolher, dependendo do veículo selecionado, e ainda permite compartilhar esses dados
 
