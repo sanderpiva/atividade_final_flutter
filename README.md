@@ -1,4 +1,4 @@
-# Atividade Final Flutter: Verificador de combustíveis
+# Atividade Final Flutter: Radar de Combustível
 
 Imagine ter um aplicativo no celular capaz de verificar se é mais vantajoso ($) abastecer com etanol ou gasolina, mostrar o cálculo em tela, e ainda permitir compartilhar esses dados?
 Pois é uma implementação possível e útil, então qual é a proposta?
@@ -12,7 +12,7 @@ O que esperar da aplicação?
  
 A verificação de qual combustível é mais vantajoso ($)
 Explicação do cálculo e impressão em tela
-Compartilhamento dos dados via whatsapp, email, incluindo o nome do posto, por exemplo
+Compartilhamento dos dados via whatsapp, por exemplo, incluindo o nome do posto
 
 Estruturas empregadas?
  
