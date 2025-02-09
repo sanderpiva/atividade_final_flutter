@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Radar de Combustível',
+      title: 'Radar do Combustível',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
@@ -38,7 +38,7 @@ class _CombustivelAppState extends State<CombustivelApp> {
   String resultado = '';
   bool enviarDados = false;
 
-  // Fatores de correção simplificados (ajuste conforme necessário)
+  
   Map<String, double> fatoresCorrecao = {
     'Carro': 0.9,
     'Moto': 0.85,
@@ -87,7 +87,7 @@ class _CombustivelAppState extends State<CombustivelApp> {
     ]);
     return Scaffold(
       appBar: AppBar(
-        title: Text('Comparador de Combustíveis'),
+        title: Text('Radar do Combustível'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
