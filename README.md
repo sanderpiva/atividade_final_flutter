@@ -13,7 +13,8 @@ O que esperar da aplicação?
 - A verificação de qual combustível é mais vantajoso ($)
 - Explicação do cálculo e impressão em tela
 - Compartilhamento dos dados via whatsapp, por exemplo, incluindo o nome do posto
-  - Para enviar os dados, basta selecionar o checkbox antes de pedir para calcular
+  - Para enviar os dados, basta selecionar o checkbox antes de clicar no botão calcular
+    - Uma janela com as opções de compartilhamento será aberta. Basta escolher sua opção
 
 Estruturas empregadas?
  
