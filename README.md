@@ -13,6 +13,7 @@ O que esperar da aplicação?
 - A verificação de qual combustível é mais vantajoso ($)
 - Explicação do cálculo e impressão em tela
 - Compartilhamento dos dados via whatsapp, por exemplo, incluindo o nome do posto
+  - Para enviar os dados, basta selecionar o checkbox antes de pedir para calcular
 
 Estruturas empregadas?
  
@@ -30,7 +31,8 @@ Darlene de Souza; Marcelo Ferreira; Renan Feliciano Rocha; Sander Gustavo Piva
 
 Print da aplicação:
 
-![12](https://github.com/user-attachments/assets/e7d01634-c956-4584-9ef4-32caedabacc1)
+![1](https://github.com/user-attachments/assets/d531ede9-24c2-403d-90ea-360c4e89c098)
+
 
 
 
