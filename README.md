@@ -32,7 +32,8 @@ Darlene de Souza; Marcelo Ferreira; Renan Feliciano Rocha; Sander Gustavo Piva
 
 Print da aplicação:
 
-![1](https://github.com/user-attachments/assets/d531ede9-24c2-403d-90ea-360c4e89c098)
+![1](https://github.com/user-attachments/assets/17be4806-ca17-4fa7-9d92-90ffb4d81821)
+
 
 
 
