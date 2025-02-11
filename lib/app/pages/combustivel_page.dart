@@ -32,8 +32,8 @@ class _CombustivelAppState extends State<CombustivelApp> {
       double regraVezesFator = 0.7 * fator;
 
       setState(() {
-        resultado = razao <= regraVezesFator ? '✅ Abasteça com Etanol! Mais vantajoso.\n $razao <= $regraVezesFator (Regra [0.7] * Fator [$fator])' :
-        '⛽ Abasteça com Gasolina! Mais vantajoso.\n $razao > $regraVezesFator (Regra [0.7] * Fator [$fator])';
+        resultado = razao <= regraVezesFator ? '✅ Abasteça com Etanol! Mais vantajoso.\n Etanol/Gasolina = $razao\n $razao <= $regraVezesFator (Regra [0.7] * Fator [$fator])' :
+        '⛽ Abasteça com Gasolina! Mais vantajoso.\n Etanol/Gasolina = $razao\n $razao > $regraVezesFator (Regra [0.7] * Fator [$fator])';
       });
       
       String mensagemCompartilhar = '''
