@@ -29,10 +29,9 @@ Para a construção desta solução, foram empregados componentes fundamentais d
 
 ## 📊 Demonstração da Interface
 
-<div align="left">
-  <img src="https://github.com/user-attachments/assets/997082fe-07a4-412e-95e0-d0544441ffd1" width="300px" alt="Screenshot do Radar do Combustível">
-  <p><i>Interface simplificada focada na agilidade do usuário no posto.</i></p>
-</div>
+![flutter](https://github.com/user-attachments/assets/46a2c887-d527-4c4e-a6b0-7ea31c699b34)
+
+<p><i>Interface simplificada focada na agilidade do usuário no posto.</i></p>
 
 ---
 
